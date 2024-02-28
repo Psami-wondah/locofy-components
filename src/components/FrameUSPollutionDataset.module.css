@@ -1,0 +1,400 @@
+.uSPollutionDatasetLabel {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--secondary-white);
+}
+.thisDatasetDeals,
+.usPollutionData {
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.usPollutionData {
+  width: 117.2px;
+}
+.thisDatasetDeals {
+  align-self: stretch;
+  font-size: var(--font-size-3xs);
+  letter-spacing: 0.37px;
+  color: var(--color-darkslategray-100);
+}
+.datasetInfo {
+  align-self: stretch;
+  height: 45px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  gap: 4px 0;
+}
+.fillednavigationmoreVertIcon {
+  width: 24.2px;
+  height: 24.1px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  z-index: 2;
+}
+.rectangleRectangleChild {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.rectangleRectangle {
+  align-self: stretch;
+  width: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.filleddeviceaccessTimeIcon {
+  height: 12.8px;
+  width: 12.9px;
+  position: relative;
+  min-height: 13px;
+  z-index: 1;
+}
+.february2023 {
+  height: 12px;
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.37px;
+  line-height: 11.02px;
+  display: inline-block;
+  z-index: 1;
+}
+.filleddeviceaccessTimeParent,
+.groupGroup {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.filleddeviceaccessTimeParent {
+  width: 78px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  gap: 0 4px;
+}
+.groupGroup {
+  align-self: stretch;
+  height: 72px;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-4xs-8);
+  color: var(--primary-dark);
+}
+.uSPollutionDatasetLabelParent {
+  flex: 0.9231;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-base) var(--padding-xs) 0 var(--padding-2xs);
+  box-sizing: border-box;
+  position: relative;
+  gap: 23px 0;
+  min-width: 224px;
+  min-height: 162px;
+}
+.instanceChild {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--secondary-white);
+}
+.thisDatasetDeals1,
+.usPollutionData1 {
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.usPollutionData1 {
+  width: 140px;
+}
+.thisDatasetDeals1 {
+  align-self: stretch;
+  font-size: var(--font-size-3xs);
+  letter-spacing: 0.37px;
+  color: var(--color-darkslategray-100);
+}
+.usPollutionDataParent {
+  align-self: stretch;
+  height: 45px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs) 0;
+  box-sizing: border-box;
+  gap: 4px 0;
+}
+.fillednavigationmoreVertIcon1 {
+  width: 24.2px;
+  height: 24.1px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  z-index: 2;
+}
+.frameChild {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.frameWrapper {
+  align-self: stretch;
+  width: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.filleddeviceaccessTimeIcon1 {
+  height: 12.8px;
+  width: 12.9px;
+  position: relative;
+  min-height: 13px;
+  z-index: 1;
+}
+.february20231 {
+  height: 12px;
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.37px;
+  line-height: 11.02px;
+  display: inline-block;
+  z-index: 1;
+}
+.filleddeviceaccessTimeGroup {
+  width: 78px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  gap: 0 4px;
+}
+.filleddeviceaccessTimeGroup,
+.frameParent,
+.rectangleParent {
+  display: flex;
+  box-sizing: border-box;
+}
+.frameParent {
+  align-self: stretch;
+  height: 72px;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0 var(--padding-xs) 0;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-4xs-8);
+  color: var(--primary-dark);
+}
+.rectangleParent {
+  flex: 1;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-base) 0 0;
+  position: relative;
+  gap: 23px 0;
+  min-width: 224px;
+  min-height: 162px;
+}
+.instanceItem {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--secondary-white);
+}
+.thisDatasetDeals2,
+.usPollutionData2 {
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.usPollutionData2 {
+  width: 211px;
+}
+.thisDatasetDeals2 {
+  align-self: stretch;
+  font-size: var(--font-size-3xs);
+  letter-spacing: 0.37px;
+  color: var(--color-darkslategray-100);
+}
+.usPollutionDataGroup {
+  align-self: stretch;
+  height: 45px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  gap: 4px 0;
+}
+.fillednavigationmoreVertIcon2 {
+  width: 24.2px;
+  height: 24.1px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  z-index: 2;
+}
+.frameItem {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.frameContainer {
+  align-self: stretch;
+  width: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.filleddeviceaccessTimeIcon2 {
+  height: 12.8px;
+  width: 12.9px;
+  position: relative;
+  min-height: 13px;
+  z-index: 1;
+}
+.february20232 {
+  height: 12px;
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.37px;
+  line-height: 11.02px;
+  display: inline-block;
+  z-index: 1;
+}
+.filleddeviceaccessTimeContainer {
+  width: 78px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  gap: 0 4px;
+}
+.filleddeviceaccessTimeContainer,
+.frameGroup,
+.rectangleGroup {
+  display: flex;
+  box-sizing: border-box;
+}
+.frameGroup {
+  align-self: stretch;
+  height: 72px;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-4xs-8);
+  color: var(--primary-dark);
+}
+.rectangleGroup {
+  flex: 0.9231;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-base) var(--padding-xs) 0 var(--padding-2xs);
+  position: relative;
+  gap: 23px 0;
+  min-width: 224px;
+  min-height: 162px;
+}
+.frameUSPollutionDataset,
+.groupTopBar {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.groupTopBar {
+  width: 913px;
+  justify-content: flex-start;
+  padding: 0;
+  gap: 0 8px;
+}
+.frameUSPollutionDataset {
+  width: 1121px;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  text-align: left;
+  font-size: var(--body-button-size);
+  color: var(--primary-dark1);
+  font-family: var(--font);
+}
+@media screen and (max-width: 975px) {
+  .groupTopBar {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .rectangleGroup,
+  .uSPollutionDatasetLabelParent {
+    flex: 1;
+  }
+}
